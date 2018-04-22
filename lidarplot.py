@@ -20,7 +20,7 @@ along with this code.  If not, see <http://www.gnu.org/licenses/>.
 '''
 
 #COM_PORT                   = 'COM42'           # Windows
-COM_PORT                    = '/dev/ttyACM0'    # Linux
+COM_PORT                    = '/dev/ttyUSB0'    # Linux
 
 # Arbitrary display params
 DISPLAY_CANVAS_SIZE_PIXELS  = 500
